@@ -1,0 +1,6 @@
+# .zipignore
+
+node_modules/
+*.log
+*.lock
+build/
